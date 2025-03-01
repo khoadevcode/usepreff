@@ -27,7 +27,7 @@
 // @match        https://1shortlink.com/*
 // @match        https://bstlar.com/*
 // @match        *://getkey.farrghii.com/*
-// @require      
+// @require      https://github.com/khoadevcode/usepreff/raw/main/yuno-pre.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue
