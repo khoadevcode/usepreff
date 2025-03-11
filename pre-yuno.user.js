@@ -28,8 +28,8 @@
 // @match        https://bstlar.com/*
 // @match        *://getkey.farrghii.com/*
 // @match        https://yeumoney.com/*
+// @require      https://raw.githubusercontent.com/khoadevcode/usepreff/refs/heads/main/yuno-yeu.js
 // @require      https://github.com/khoadevcode/usepreff/raw/main/yuno-pre.js
-// @require      https://raw.githubusercontent.com/phantatdung233/bypass-yeumoney/refs/heads/main/bypass-yeumoney-V3.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue
